@@ -1,4 +1,5 @@
-# Web and Application Developer & Illustrator
+# Jim Lloyd Villados
+## Web and Application Developer & Illustrator
 
 ### Education
 BS Information Technology
