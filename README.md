@@ -1,5 +1,3 @@
-![pfp](profilepic.jpg){: width="250px" height="250px"}
-# Jim Lloyd Villados
 ## Web and Application Developer & Illustrator
 Technical Skills: Java, Python, React Native, Adobe Softwares
 
