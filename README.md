@@ -1,4 +1,4 @@
-![pfp](profilepic.jpg){: width="200px" height="200px"}
+![pfp](profilepic.jpg){: width="200px" height="200px" .align-center}
 # Jim Lloyd Villados
 ## Web and Application Developer & Illustrator
 Technical Skills: Java, Python, React Native, Adobe Softwares
@@ -19,6 +19,9 @@ ViganFood: Online Ordering and Delivery System
 
 ### My Socials
 [Fiverr](https://www.fiverr.com/s/Q7ZN3Nj)
+
 [Upwork](https://www.upwork.com/freelancers/~01c9980812d5b31b3f?mp_source=share)
+
 [LinkedIn](https://www.linkedin.com/in/jim-lloyd-villados-16552b411 )
+
 [Facebook](https://www.facebook.com/jim.lloyd.villados/)
