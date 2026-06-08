@@ -1,4 +1,4 @@
-# Web and Application Developer && Illustrator
+# Web and Application Developer & Illustrator
 
 ### Education
 BS Information Technology
