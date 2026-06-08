@@ -14,4 +14,4 @@ IT Intern @ University of Northern Philippines
 ### Projects
 ViganFood: Online Ordering and Delivery System
 - Integrated web and application platform
-![Implemented Site](https://www.facebook.com/share/p/17ZJswAL4J/)
+[Implemented Site](https://www.facebook.com/share/p/17ZJswAL4J/)
