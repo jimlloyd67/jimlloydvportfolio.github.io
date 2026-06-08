@@ -1,3 +1,4 @@
+![Octocat](https://github.com/jimlloyd67/jimlloydvportfolio.github.io/profilepic.jpg)
 # Jim Lloyd Villados
 ## Web and Application Developer & Illustrator
 
