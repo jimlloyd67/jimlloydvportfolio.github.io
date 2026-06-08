@@ -1,4 +1,4 @@
-![Octocat](profilepic.jpg)
+![pfp](profilepic.jpg){: width="200px" height="200px"}
 # Jim Lloyd Villados
 ## Web and Application Developer & Illustrator
 
