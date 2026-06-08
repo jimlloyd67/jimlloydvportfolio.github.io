@@ -1,5 +1,5 @@
 ## Web and Application Developer & Illustrator
-Technical Skills: Java, Python, React Native, Adobe Softwares
+Technical Skills: Java, Python, React Native, Adobe Softwares, CAD Softwares
 
 ### Education
 BS Information Technology | University of Northern Philippines (_May 2026_)
@@ -7,7 +7,7 @@ BS Information Technology | University of Northern Philippines (_May 2026_)
 ### Work Experience
 IT Intern @ University of Northern Philippines
 - Finished 500 On-The-Job Training
-- Evaluated at the Highest Score by the office
+- Evaluated as an Excellent Trainee by the office
 
 ### Projects
 ViganFood: Online Ordering and Delivery System
